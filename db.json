@@ -5,7 +5,7 @@
     "label": "Imie"
   },
   {
-    "field": "checkbox",
+    "field": "checkbox1",
     "type": "CHECKBOX",
     "label": "Zgadza sie"
   },
@@ -15,7 +15,7 @@
     "label": "Nazwisko"
   },
   {
-    "field": "checkbox",
+    "field": "checkbox2",
     "type": "CHECKBOX",
     "label": "Zgadza sie"
   },
@@ -40,7 +40,7 @@
     "label": "Do"
   },
   {
-    "field": "checkbox",
+    "field": "checkbox3",
     "type": "CHECKBOX",
     "label": "Zgadza sie"
   },
