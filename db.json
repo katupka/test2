@@ -5,14 +5,19 @@
     "label": "Imie"
   },
   {
+    "field": "checkbox",
+    "type": "CHECKBOX",
+    "label": "Zgadza sie"
+  },
+  {
     "field": "name2",
     "type": "EDITTEXT",
     "label": "Nazwisko"
   },
   {
-    "field": "name3",
-    "type": "EDITTEXT",
-    "label": "Miasto"
+    "field": "checkbox",
+    "type": "CHECKBOX",
+    "label": "Zgadza sie"
   },
   {
     "field": "name3",
@@ -43,11 +48,6 @@
     "type": "PICTURE",
     "url": "https://picsum.photos/300/200",
     "label": "Obrazek"
-  },
-  {
-    "type": "PICTURE",
-    "url": "https://picsum.photos/300/200",
-    "label": "Obrazek2"
   }
 ]
 }
